@@ -3,3 +3,5 @@ USO DE GIT A NIVEL LOCAL
 Esta es una modificación
 
 Otra modificación
+
+Modificación estado en otra rama diferente de master
